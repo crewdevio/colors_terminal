@@ -6,7 +6,7 @@
  *
  */
 
-import 'lib/colors.dart' show Colors;
+import 'package:colors_terminal/colors_terminal.dart' show Colors;
 
 void main(List<String> args) {
   var color = Colors();

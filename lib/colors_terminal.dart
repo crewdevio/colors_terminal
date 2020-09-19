@@ -6,6 +6,8 @@
  *
  */
 
+library colors_terminal;
+
 /// colors contructor class
 class Colors {
   // * 8bits colors

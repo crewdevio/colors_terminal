@@ -53,3 +53,4 @@ Colors use ansi code to print colors
 ### ANSI 256 color text
 
 - color256
+  > **more info**: [link](https://jonasjacek.github.io/colors/)
