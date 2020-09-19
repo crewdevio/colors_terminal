@@ -1,6 +1,6 @@
-# Colors a tiny library to print colors for console in dart
+# Colors terminal a tiny library to print colors for console in dart
 
-Colors use ansi code to print colors
+Colors terminal use ansi code to print colors
 
 ### 8 bits colors
 
